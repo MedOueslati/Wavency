@@ -1,0 +1,537 @@
+{
+  "nav": {
+    "services": "Solutions",
+    "offers": "Offres",
+    "projects": "Réalisations",
+    "models": "Modèles",
+    "banners": "Banniére Linkedin",
+    "contact": "Contact",
+    "new": "Nouveau",
+    "blogs": "Blog",
+    "abonnezvous": "Abonnez vous",
+    "navigation": "Navigation"
+  },
+  "footer": {
+    "description": "Nous sommes l'agence qui transforme votre vision digitale en réalité. Experts en développement web sur mesure et branding stratégique.",
+    "contact": "Contact",
+    "follow": "Suivez-nous",
+    "rights": "Tous droits réservés.",
+    "privacy": "Mentions Légales"
+  },
+
+  "hero": {
+    "title1": "Nous sommes l'agence web",
+    "title2": "Qui booste votre succès.",
+    "button": "Contactez-Nous",
+    "button2": "Découvrir"
+
+  },
+  "ui": {
+    "button": "EN SAVOIR PLUS"
+  },
+
+  "seo": {
+    "home": {
+      "title": "Agence Web Tunisie - Création de Sites Internet Modernes | WAVENCY",
+      "description": "WAVENCY est une agence web en Tunisie spécialisée dans la création de sites vitrines, e-commerce et design graphique sur-mesure pour votre entreprise.",
+      "keywords": "agence web Tunisie, création site web, développement web Tunisie, design UX/UI, branding, marketing digital, site vitrine  , site e-commerce  , gestion réseaux sociaux",
+      "ogTitle": "WAVENCY - Agence Web Tunisie | Sites Internet & Design",
+      "ogDescription": "Boostez votre présence en ligne avec WAVENCY : création de sites web professionnels, design moderne et stratégie digitale en Tunisie."
+    },
+    "servicesPage": {
+      "title": "Création Sites Web & Graphic Design | Services Digitaux en Tunisie | Wavency",
+      "description": "Découvrez les services web de Wavency : création de sites internet vitrines et e-commerce, design graphique, stratégie digitale et gestion des réseaux sociaux.",
+      "keywords": "agence web Tunisie, création site internet, site vitrine, site e-commerce, branding, design graphique, réseaux sociaux, stratégie digitale",
+      "ogTitle": "Wavency | Agence Web en Tunisie - Services Digitaux sur Mesure",
+      "ogDescription": "Boostez votre présence en ligne avec Wavency : sites web professionnels, branding visuel et gestion de vos réseaux sociaux."
+    }
+  },
+  "home": {
+    "title1": " L'agence qui fait briller ",
+    "word": "L'agence",
+    "subtitle": " qui fait briller votre marque",
+    "description1": "Nous sommes l'agence qui transforme votre vision digitale en réalité. Experts en développement web sur mesure et branding stratégique, nous concevons des sites web rapides, intuitifs et convertisseurs, tout en bâtissant une identité de marque forte et cohérente. Notre approche allie code robuste, design percutant et expérience utilisateur optimisée pour vous démarquer de la concurrence. Du site vitrine à la plateforme e-commerce, en passant par l'univers graphique de votre marque, nous créons des solutions digitales qui captivent, engagent et génèrent des résultats.",
+    "description2": "Nous allions créativité et technologie pour offrir des expériences web à la fois esthétiques et performantes. De la conception UI/UX au prototypage interactif, nous développons des interfaces modernes avec React, Tailwind CSS et les technologies web les plus avancées. Grâce à l’animation et au motion design via Framer Motion, chaque interaction devient fluide et engageante. Notre approche intègre également l’optimisation des performances, l’accessibilité, ainsi que la mise en place de design systems cohérents pour renforcer l'identité de marque. ",
+    "realisations.title": "Nos Réalisations",
+    "realisations.description": "Découvrez nos projets récents et réussis",
+    "services.title": "Agence Digitale en Tunisie",
+    "subtitle2": "Digitalisez votre entreprise avec un site web moderne et efficace",
+    "services.description": "Expertise en création de sites internet & design d'identité visuelle",
+    "services.li1": "Création de sites web modernes, responsives et performants  ",
+    "services.li2": "Conception UI/UX centrée sur l'expérience utilisateur  ",
+    "services.li3": "Développement frontend avec React et Tailwind CSS    ",
+    "services.li4": "Design d'identité visuelle : logo, charte graphique, typographie    ",
+    "services.li5": "Animations fluides et interactions engageantes avec Framer Motion  ",
+    "services.li6": "Optimisation SEO, performance et accessibilité ",
+    "modelels": "Bibliothèque Des Modèles",
+    "modeles.subtitle": "Une large gamme de modèles adaptés à tous vos besoins",
+
+    "rdvtitle": "Prenez rendez-vous gratuitement en 1 clic !",
+    "rdvdescription": "N'hésitez pas à nous fournir toutes les informations nécessaires pour que nous puissions vous proposer une solution parfaitement adaptée.Nous sommes à votre écoute pour répondre à toutes vos questions et vous accompagner tout au long de votre projet.",
+    "rdvstep1": "Nous échangeons pendant 30 min sur votre projet",
+    "rdvstep2": "Entretien personnalisé",
+    "rdvButton": "Prendre Rendez-Vous"
+  },
+
+  "services": {
+    "title1": "Solutions",
+    "title2": "Ta marque doit inspirer confiance et crédibilité",
+    "description1": "Offrez à votre activité la visibilité qu'elle mérite grâce à un site internet performant, responsive et conçu sur-mesure. Que vous soyez une PME, un entrepreneur ou une grande entreprise, nous vous accompagnons dans la création d’un site web adapté à vos objectifs et à votre image.",
+    "subtitle": "Digitalisez votre entreprise avec un site web moderne et efficace",
+
+    "identity": {
+      "title": "Identité visuelle",
+      "li1": "Un logo clair et moderne",
+      "li2": "Une palette de couleurs cohérente (max 3 couleurs principales)",
+      "li3": "Des typographies professionnelles"
+    },
+
+    "website": {
+      "title": "Site web de l'agence",
+      "intro": "Ton site est ta vitrine principale :",
+      "li1": "Une page accueil avec un message clair sur ce que tu proposes",
+      "li2": "Une page services bien détaillée avec tarifs indicatifs",
+      "li3": "Une page portfolio avec tes projets (même des maquettes au début)",
+      "li4": "Une page contact simple et efficace (formulaire + WhatsApp + email)"
+    },
+
+    "overview": {
+      "subtitle": "Des solutions complètes pour booster votre présence en ligne",
+      "hosting": {
+        "title": "Hébergement Web",
+        "desc": "Serveurs rapides et sécurisés pour garantir la disponibilité de votre site."
+      },
+      "react": {
+        "title": "Développement React",
+        "desc": "Sites modernes et performants construits avec React."
+      },
+      "design": {
+        "title": "Design sur mesure",
+        "desc": "Identité visuelle unique et professionnelle."
+      },
+      "video": {
+        "title": "Pack Vidéo Editing",
+        "desc": "Montages vidéo créatifs pour vos réseaux et campagnes."
+      },
+      "social": {
+        "title": "Réseaux Sociaux",
+        "desc": "Gestion et optimisation de votre présence sociale."
+      },
+      "ecommerce": {
+        "title": "Site E-commerce",
+        "desc": "Boutiques en ligne performantes et faciles à gérer."
+      }
+    }
+  },
+  "offers": {
+    "title": "Nos Offres",
+    "launchTitle": "Lancez Votre Site Web Professionnel",
+    "advancedSiteTitle": "Site Vitrine Avancé à 1500 TND tout inclus",
+    "description": "Profitez d'un site vitrine complet et personnalisé, conçu pour mettre en valeur votre entreprise et attirer plus de clients. Cette offre inclut la création, le design responsive, le référencement de base et un accompagnement dédié, le tout à un prix compétitif.",
+    "features": {
+      "hosting": "Hébergement ultra-rapide + domaine gratuits pendant 1 an",
+      "hostingTooltip": "Dans le cadre de votre offre, vous bénéficiez d'un nom de domaine en .tn offert pendant 1 an.",
+      "modernDesign": "Design moderne, responsive et personnalisé",
+      "quickLaunch": "Mise en ligne rapide et accompagnement complet",
+      "animation": "Animation & Motion Design avec Framer Motion",
+      "designSystem": "Design Systems & Identité de marque",
+      "performance": "Optimisation des performances & accessibilité"
+    }
+  },
+  "pricing": {
+    "chooseTitle": "Choisissez le plan qui convient le mieux à votre équipe",
+    "chooseSubtitle": "Des forfaits conçus pour accompagner votre croissance",
+    "plan1": {
+      "name": "Site Vitrine",
+      "price": "499 DT",
+      "description": "Site Vitrine avec 3 pages",
+      "feature1": "3 pages",
+      "feature2": "Design Responsive",
+      "feature3": "Formulaire de contact",
+      "order": "Commander"
+    },
+    "title1": "Plans sur Mesure",
+    "plan2": {
+      "name": "Site Vitrine Avancé",
+      "price": "990 DT",
+      "subText": "Hébergement et domaine inclus pendant 1 an",
+      "description": "Site Vitrine avec 5 pages",
+      "feature1": "5 pages",
+      "feature2": "Design Responsive",
+      "feature3": "Optimisé SEO",
+      "feature4": " Google Search Console",
+      "feature5": "SSL (HTTPS)",
+      "feature6": "Formulaire de contact"
+    },
+    "plan3": {
+      "name": "Site E-commerce",
+      "price": "5000 DT",
+      "description": "Avec Login et Mot de passe",
+      "feature1": "Espace utilisateur",
+      "feature2": "Design Responsive",
+      "feature3": "Panier de commande",
+      "feature4": "Moteur de recherche",
+      "feature5": "Notification Mail"
+    },
+    "plan4": {
+      "name": "Site E-commerce Avancé",
+      "price": "6790 DT",
+      "description": "Avec Login et Mot de passe",
+      "feature1": "Espace utilisateur",
+      "feature2": "Design Responsive",
+      "feature3": "Panier de commande",
+      "feature4": "Moteur de recherche",
+      "feature5": "Dashboard Admin",
+      "feature6": "Notification Mail"
+    },
+    "bestDeal": "Meilleure Offre",
+    "order": "Commander"
+  },
+  "design": {
+    "creation": {
+      "name": "Création Graphique",
+      "price": "À partir de 200 TND",
+      "feature1": "Logo Professionnel",
+      "feature2": "Carte de Visite",
+      "feature3": "Affiche Publicitaire",
+      "feature4": "Flyer / Dépliant",
+      "feature5": "Bannière Réseaux Sociaux"
+    },
+    "charte": {
+      "name": "Charte Graphique Complète",
+      "price": "À partir de 700 TND",
+      "feature1": "Palette de Couleurs",
+      "feature2": "Typographie",
+      "feature3": "Logos et Variantes",
+      "feature4": "Règles d'Utilisation",
+      "feature5": "Iconographie & Éléments Visuels",
+      "feature6": "Modèles de Supports"
+    },
+    "social": {
+      "name": "Réseaux Sociaux",
+      "price": "Détails & Tarifs",
+      "feature1": "Starter : 200-300 TND - 4 publications/semaine",
+      "feature2": "Standard : 400-800 TND - visuels + vidéos + textes",
+      "feature3": "Premium : 900-1500 TND - Contenu + Publicité + Messages"
+    },
+    "design": {
+      "videoEditing": {
+        "name": "Pack Vidéo Editing",
+        "price": "À partir de 100 TND",
+        "feature1": " Montage de vidéos courtes (Reels, Stories, TikTok, Youtube...)",
+        "feature2": " Ajout de sous-titres animés",
+        "feature3": " Transitions dynamiques et effets visuels",
+        "feature4": " Habillage graphique personnalisé (logo, couleurs)"
+      }
+    }
+  },
+
+  "contactForm": {
+    "contactUs": "Contactez-nous",
+    "title": "Contactez-Nous ",
+    "msgdescription": "N'hésitez pas à nous contacter via le formulaire ou directement par téléphone ou email",
+    "msgemail": "contact@wavency.tn",
+    "call": "Appelez-nous",
+    "formDescription": "Parlez directement avec notre équipe pour une conversation plus claire et personnalisée.",
+    "formNumber": "+216 52 816 831",
+    "formAdress": "Adresse",
+    "formDescription2": "Nous serions heureux de vous recevoir dans nos bureaux pour échanger de manière directe et conviviale.",
+    "titleForm": "Contactez notre équipe",
+    "descriptionForm2": "Envoyez-nous un message par email pour une réponse rapide et personnalisée. Nous sommes là pour vous aider efficacement.",
+    "successMessage": "Votre message a été envoyé avec succès !",
+    "errorMessage": "Une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer plus tard.",
+    "namePlaceholder": "Votre nom",
+    "companyPlaceholder": "Nom de l'entreprise",
+    "emailPlaceholder": "Votre email",
+    "telephonePlaceholder": "Téléphone",
+    "subjectPlaceholder": "Sujet",
+    "subjectPlacerholder": "Choisissez votre offre",
+    "offrePlaceholder": "Sélectionnez...",
+    "MessagePlaceholder": "Votre message",
+    "graphicDesign&developpement": "Conception graphique et développement",
+    "service1": "Site vitrine",
+    "service2": "Site vitrine avancé",
+    "service3": "Site e-commerce",
+    "service4": "Site e-commerce avancé",
+    "service5": "Création graphique",
+    "service6": "Complete graphic charter",
+    "service7": "Gestion de réseaux sociaux",
+    "service8": "Modéle",
+    "service9": "Domaine Gratuit + Hébergement",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "horaires": "Horaires"
+  },
+  "button": {
+    "send": "Envoyer",
+    "sending": "Envoi en cours..."
+  },
+  "realisation": {
+    "title": "Nos Réalisations",
+    "subtitle": "Découvrez nos projets récents et réussis"
+  },
+  "logo": {
+    "label1": "Solutions e-commerce",
+    "label2": "Compatible mobile et ultra rapide",
+    "label3": "Logo et identité visuelle",
+    "label4": "Charte graphique",
+    "label5": "Branding réseaux sociaux",
+    "label6": "Développement web",
+    "label7": "Branding et design",
+    "label8": "Sites web sur mesure"
+  },
+  "model": {
+    "title": "Bibliothèque de Templates",
+    "title1": "Explorez une collection de templates et modèles professionnels",
+    "subtitle": "Gagnez du temps et démarquez-vous avec des designs modernes, efficaces et 100% personnalisables.",
+    "search": "Rechercher un modèle...",
+    "bannertitle": "Bannière LinkedIn ",
+    "bannertitle1": "Bannière LinkedIn professionnelle",
+    "subtitle2": "Mettez en valeur votre expertise avec un design unique. "
+  },
+  "template": {
+    "title": "Portfolio Développeur",
+    "subtitle": "Un modèle de portfolio React minimal et réactif avec des sections essentielles pour mettre en valeur votre travail et vous connecter professionnellement.",
+    "features": [
+      "Intro accrocheuse - Bouton d'appel à l'action",
+      "Image de fond ou animation",
+      "Liste de compétences - Bouton de téléchargement de CV",
+      "Animations Framer Motion",
+      "Formulaire de contact (Nom, Email, Message)",
+      "Copyright - Icônes sociales - Bouton de retour en haut"
+    ],
+    "lastUpdated": "Dernière mise à jour : 31 Juil 25"
+  },
+
+  "blogs": {
+    "title": "Blog",
+    "title1": "Conseils et Tendances pour développer votre entreprise",
+    "subtitle": "Découvrez des stratégies pratiques, des conseils d'experts et les dernières tendances en matière de marketing numérique",
+    "reactBasics": {
+      "title": "Apprenez les bases de React",
+      "excerpt": "Comprenez les fondamentaux de React et comment créer des interfaces dynamiques.",
+      "introduction": "Créer des interfaces utilisateur dynamiques et interactives est un aspect crucial du développement web moderne. React, une puissante bibliothèque JavaScript, est devenue un outil incontournable pour les développeurs du monde entier. Grâce à son architecture à base de composants et à son DOM virtuel, React permet un développement d'applications efficace et évolutif. Cet article explore les fondamentaux de React et ses principales fonctionnalités et avantages. En comprenant les bases de cette bibliothèque JavaScript, les développeurs peuvent créer des interfaces robustes et conviviales qui répondent aux exigences des applications web actuelles.",
+      "headingh1": "Points clés",
+      "keyTakeaways": {
+        "item1": "Comprendre l'importance de React dans le développement web moderne.",
+        "item2": "Explorer les principales fonctionnalités de la bibliothèque JavaScript React.",
+        "item3": "Apprendre à créer des interfaces utilisateur dynamiques et interactives.",
+        "item4": "Découvrir les avantages de l'utilisation de React pour le développement d'applications.",
+        "item5": "Identifier les bonnes pratiques pour implémenter React dans des projets concrets."
+      },
+      "section1": {
+        "heading": "Qu'est-ce que React et pourquoi l'apprendre ?",
+        "p1": "Grâce à son approche unique du développement d'interface utilisateur, React est devenu un pilier du développement web moderne. React est une bibliothèque JavaScript utilisée pour créer des interfaces utilisateur, notamment pour les applications monopages où les données changent fréquemment."
+      },
+      "section2": {
+        "heading": "L'évolution des bibliothèques JavaScript",
+        "p1": "Le paysage du développement web a considérablement évolué avec l'introduction de diverses bibliothèques JavaScript. React, développé par Facebook, s'est imposé comme un choix de premier plan grâce à sa simplicité et son efficacité. Il permet aux développeurs de créer des composants d'interface utilisateur réutilisables, rendant le processus de développement plus gérable et plus efficace."
+      },
+      "section3": {
+        "heading": " Principaux avantages de l'utilisation de React",
+        "p1": "L'un des principaux avantages de React est son architecture basée sur des composants, qui favorise la réutilisabilité et la modularité. De plus, le DOM virtuel de React garantit que seuls les composants nécessaires sont réaffichés lorsque les données changent, améliorant ainsi les performances. Le vaste écosystème autour de React, comprenant des outils comme Redux et React Router, enrichit encore ses capacités.Comme indiqué, «React simplifie la création d'interfaces utilisateur interactives». Ceci est particulièrement avantageux pour les applications complexes où les changements d'état sont fréquents."
+      },
+      "section4": {
+        "heading": "Configuration de votre environnement de développement React",
+        "p1": "La configuration d'un environnement de développement React est la première étape vers la création d'applications robustes et évolutives. Pour commencer, vous aurez besoin de quelques outils essentiels installés sur votre ordinateur."
+      },
+      "section5": {
+        "heading": "Outils et prérequis requis",
+        "p1": "Avant de créer votre première application React, assurez-vous d'avoir installé Node.js et npm (Node Package Manager). Ces éléments sont essentiels à la gestion des dépendances et à l'exécution de votre application."
+      },
+      "section6": {
+        "heading": "Créer votre première application React avec Create-React-App",
+        "p1": "Create-React-App est un outil populaire pour initialiser de nouveaux projets React. Il définit une structure de projet de base et configure l'environnement de développement. Pour créer une nouvelle application, exécutez npx create-react-app my-app dans votre terminal."
+      },
+      "section7": {
+        "heading": "Comprendre la structure du projet",
+        "p1": "Une fois votre projet créé, vous remarquerez une structure de répertoires comprenant les dossiers public, src et node_modules. Le dossier src est celui où vous passerez le plus de temps, car il contient le code source de votre application."
+      },
+      "section8": {
+        "heading": "Comprendre JSX",
+        "p1": "JSX, une extension syntaxique pour JavaScript, permet aux développeurs d'écrire du code de type HTML dans leurs fichiers JavaScript, ce qui en fait un outil fondamental pour le développement React. Cette extension n'est pas un langage de création de modèles distinct, mais plutôt un outil syntaxique permettant aux développeurs d'écrire des structures HTML dans leur code JavaScript, simplifiant ainsi la création d'éléments React."
+      },
+      "section9": {
+        "heading": "Differences from HTML",
+        "p1": "While JSX resembles HTML, there are key differences. JSX is a syntax extension that gets compiled into JavaScript, allowing for more dynamic and flexible coding. Unlike HTML, JSX allows you to embed JavaScript expressions directly within the markup."
+      },
+      "section10": {
+        "heading": "Writing Expressions in JSX",
+        "p1": "One of the powerful features of JSX is the ability to write expressions within curly braces {}. This allows developers to embed JavaScript logic directly into their JSX, making it highly dynamic. For example, you can display a variable's value by wrapping it in curly braces: <div>{variableName}</div>."
+      },
+      "section11": {
+        "heading": "JSX Attributes and Event Handlers",
+        "p1": "JSX attributes are similar to HTML attributes but with some differences. For instance, the class attribute is written as className in JSX because class is a reserved word in JavaScript. Event handlers, such as onClick, are also used in JSX to handle user interactions. These handlers are functions that get called when the specified event occurs."
+      },
+      "section12": {
+        "heading": "React Components: The Building Blocks of Modern UIs",
+        "p1": "Components are the core of React, enabling developers to create complex UIs by breaking them down into simpler, reusable pieces. This approach not only simplifies the development process but also makes the code more manageable and maintainable."
+      },
+      "section13": {
+        "heading": "Functional vs. Class Components",
+        "p1": "React supports two primary types of components: functional and class components. Functional components are simple, stateless functions that are ideal for presenting UI elements. They are easy to understand and test. On the other hand, class components offer more features, including the ability to handle state changes and lifecycle methods, making them suitable for more complex UI logic. Functional components are preferred for simplicity and are often used for presentational purposes. Class components are used when you need to manage state or utilize lifecycle methods."
+      },
+      "section14": {
+        "heading": "Component Composition and Reusability",
+        "p1": "One of the key benefits of React components is their reusability. By designing components to be modular and self-contained, developers can reuse them across different parts of an application, reducing code duplication and improving consistency.Break down complex UIs into smaller, simpler components.Use props to customize components, making them more versatile."
+      },
+      "section15": {
+        "heading": "The Component Lifecycle",
+        "p1": "Understanding the lifecycle of React components is crucial for managing how components mount, update, and unmount. This knowledge is essential for handling side effects, optimizing performance, and ensuring a smooth user experience. Lifecycle methods in class components allow developers to execute code at specific points during a component's life cycle, such as when it mounts or unmounts. For functional components, React Hooks like useEffect provide similar functionality."
+      },
+      "section16": {
+        "heading": "Utiliser les props dans React",
+        "p1": "Comprendre l'utilisation des props est crucial pour créer des applications React dynamiques. Les props, abréviation de propriétés, sont un mécanisme fondamental pour transmettre des données d'un composant parent à un composant enfant, permettant ainsi la création d'éléments d'interface utilisateur réutilisables et interactifs."
+      },
+      "section17": {
+        "heading": "Transfert de données entre composants",
+        "p1": "Les props permettent de transmettre des données entre composants dans un flux unidirectionnel, du parent vers l'enfant. Cela s'effectue en ajoutant des attributs au composant enfant lorsqu'il est utilisé dans le composant parent. Par exemple, vous pouvez transmettre une prop titre à un composant Greeting comme ceci : <Greeting title='Hello, World!' />."
+      },
+      "section18": {
+        "heading": "Validation des props avec PropTypes",
+        "p1": "Pour garantir que les composants reçoivent le bon type de props, React fournit PropTypes. Ce mécanisme de validation permet de détecter les bugs en amont en vous avertissant lorsqu'un composant reçoit une prop d'un type incorrect. Par exemple, vous pouvez spécifier qu'un composant attend une prop name de type chaîne en utilisant PropTypes."
+      },
+      "section19": {
+        "heading": "Props par défaut et déstructuration",
+        "p1": "React vous permet également de définir des props par défaut pour un composant, offrant ainsi une solution de secours lorsqu'une prop n'est pas passée. De plus, vous pouvez utiliser la déstructuration ES6 pour extraire les props dans des variables, rendant ainsi votre code plus lisible. Par exemple, au lieu d'accéder à props.name, vous pouvez le déstructurer directement dans la signature de la fonction : ({ name }). En maîtrisant les props, vous pouvez créer des composants React plus flexibles et maintenables, améliorant ainsi la structure globale de votre application et l'expérience utilisateur."
+      },
+      "section20": {
+        "heading": "Gestion de l'état dans les applications React",
+        "p1": "Une gestion efficace de l'état est essentielle pour créer des applications React robustes et évolutives. À mesure que les applications React gagnent en complexité, la gestion de l'état sur plusieurs composants devient de plus en plus complexe. React propose plusieurs outils et techniques pour gérer l'état, notamment les hooks useState et useReducer, ainsi que l'API Context."
+      },
+      "section21": {
+        "heading": "État local avec le hook useState",
+        "p1": "Le hook useState est un outil fondamental pour gérer l'état local des composants fonctionnels. Il permet aux développeurs d'ajouter un état aux composants fonctionnels en renvoyant une variable d'état et une fonction de mise à jour pour la mettre à jour. Pour des besoins simples de gestion de l'état, useState est une solution simple et efficace."
+      },
+      "section22": {
+        "heading": "Gestion d'état complexe avec useReducer",
+        "p1": "Pour les scénarios de gestion d'état plus complexes, le hook useReducer offre une approche plus structurée. Il est particulièrement utile lorsque la logique d'état implique plusieurs sous-valeurs ou lorsque l'état suivant dépend du précédent. useReducer facilite la gestion d'états complexes en les décomposant en éléments plus faciles à gérer."
+      },
+      "section23": {
+        "heading": "Quand utiliser Context API vs. Redux",
+        "p1": "Pour gérer l'état global ou partager l'état entre des composants distants, les développeurs envisagent souvent d'utiliser Context API ou Redux. Context API est une solution React intégrée qui permet un partage d'état simple entre les composants sans nécessiter de « prop drill ». Redux, quant à lui, est une bibliothèque de gestion d'état plus complète qui offre des fonctionnalités supplémentaires comme la prise en charge des intergiciels et un écosystème robuste. Le choix entre Context API et Redux dépend des besoins spécifiques de l'application, Context API étant adaptée aux cas d'utilisation plus simples et Redux aux applications d'entreprise plus complexes."
+      },
+      "section24": {
+        "heading": "Hooks React : Révolutionner les composants fonctionnels",
+        "p1": "Grâce aux Hooks React, la gestion de l'état et des effets secondaires dans les composants fonctionnels est devenue plus efficace et intuitive. Cette avancée significative a transformé la façon dont les développeurs créent et maintiennent les applications React."
+      },
+      "section25": {
+        "heading": "Hooks essentiels",
+        "p1": "React fournit plusieurs hooks essentiels qui constituent la base du développement de composants fonctionnels. Le hook useState permet la gestion de l'état, useEffect gère les effets secondaires et useContext permet l'accès au contexte (état partagé) entre les composants."
+      },
+      "section26": {
+        "heading": "Hooks personnalisés pour une logique réutilisable",
+        "p1": "L'une des fonctionnalités puissantes des Hooks React est la possibilité de créer des hooks personnalisés. Ceux-ci permettent aux développeurs d'encapsuler une logique complexe dans des fonctions réutilisables, favorisant ainsi la réutilisabilité et la maintenabilité du code. Par exemple, un hook personnalisé pour la validation des formulaires peut être créé et réutilisé sur plusieurs composants, simplifiant ainsi le processus de développement."
+      },
+      "section27": {
+        "heading": "Règles des Hooks",
+        "p1": "Pour garantir une utilisation correcte et efficace des hooks, React applique certaines règles. Les hooks doivent être appelés au niveau supérieur d'un composant de fonction React et ne doivent pas être appelés à l'intérieur de boucles, de conditions ou de fonctions imbriquées. En respectant ces directives et en exploitant les Hooks React, les développeurs peuvent créer des applications plus robustes, efficaces et évolutives."
+      },
+      "section28": {
+        "heading": "Gestion des événements et des formulaires dans React",
+        "p1": "Dans React, la gestion des événements et des formulaires est essentielle à la création d'interfaces utilisateur dynamiques. Les événements tels que les saisies utilisateur, les actions de la souris et les interactions au clavier sont fondamentaux pour l'expérience utilisateur."
+      },
+      "section29": {
+        "heading": "Bases de la gestion des événements",
+        "p1": "Le système de gestion des événements de React est similaire à celui du DOM, mais avec quelques différences syntaxiques. Par exemple, les événements React utilisent la casse camelCase au lieu des minuscules. Pour gérer les événements, vous passez une fonction comme gestionnaire d'événements, plutôt qu'une chaîne. Exemple : <button onClick={handleClick}>Cliquez sur moi</button>. Les gestionnaires d'événements peuvent être définis en ligne ou comme des fonctions séparées. Il est souvent plus lisible de les définir comme des fonctions séparées."
+      },
+      "section30": {
+        "heading": "Composants contrôlés vs. non contrôlés",
+        "p1": "Les composants contrôlés sont ceux dont les données de formulaire sont gérées par l'état du composant. Les composants non contrôlés, en revanche, stockent leur propre état en interne. Les composants contrôlés offrent plus de flexibilité et sont généralement recommandés. Les composants non contrôlés peuvent être utiles pour les formulaires simples ou lors de l'intégration avec du code non React."
+      },
+      "section31": {
+        "heading": "Techniques de validation de formulaire",
+        "p1": "La validation de formulaire est essentielle pour garantir la conformité des saisies utilisateur aux formats attendus. Les applications React peuvent implémenter la validation à l'aide de l'état et des propriétés. 1. Les techniques courantes incluent : l'utilisation de l'état pour suivre les valeurs saisies et valider lors d'une modification ou d'une soumission. 2. L'implémentation de bibliothèques de validation ou de fonctions de validation personnalisées."
+      },
+      "section32": {
+        "heading": "Routage et navigation dans les applications React",
+        "p1": "Dans le monde de React, React Router s'impose comme un outil puissant pour créer des applications navigables et intuitives. Le routage côté client est essentiel pour les applications monopages, permettant aux utilisateurs de naviguer entre différentes vues sans recharger la page entière."
+      },
+      "section33": {
+        "heading": "Configurer React Router",
+        "p1": "Pour commencer à utiliser React Router, vous devez d'abord l'installer via npm ou yarn. Une fois installé, vous pouvez encapsuler votre application avec le composant BrowserRouter, qui active le routage côté client. Cette configuration est essentielle pour une navigation fluide."
+      },
+      "section34": {
+        "heading": "Paramètres de route et routes imbriquées",
+        "p1": "React Router permet un routage dynamique grâce aux paramètres de route. Vous pouvez définir des routes avec des paramètres qui capturent les valeurs de l'URL, ce qui simplifie la gestion de différents scénarios de données. Les routes imbriquées améliorent encore cette fonctionnalité en permettant des structures de routage plus complexes au sein de votre application."
+      },
+      "section35": {
+        "heading": "Routes protégées et protections de navigation",
+        "p1": "Pour les applications nécessitant une authentification ou une autorisation, React Router permet de créer des routes protégées. En enveloppant les routes avec des contrôles d'authentification, vous pouvez contrôler l'accès à certaines parties de votre application, améliorant ainsi la sécurité et l'expérience utilisateur. En maîtrisant React Router, les développeurs peuvent créer des applications React plus intuitives et interactives, améliorant ainsi l'engagement utilisateur."
+      },
+      "section36": {
+        "heading": "Paramètres de route et routes imbriquées",
+        "p1": "React Router permet un routage dynamique grâce aux paramètres de route. Vous pouvez définir des routes avec des paramètres qui capturent les valeurs de l'URL, ce qui simplifie la gestion de différents scénarios de données. Les routes imbriquées améliorent encore cette fonctionnalité en permettant des structures de routage plus complexes au sein de votre application."
+      },
+      "section37": {
+        "heading": "Optimisation des performances dans React",
+        "p1": "L'optimisation des performances est cruciale pour offrir une expérience utilisateur fluide dans les applications React. Face à la complexité croissante des applications React, leur rapidité et leur réactivité deviennent une priorité absolue."
+      },
+      "section38": {
+        "heading": "React.memo et useMemo",
+        "p1": "Une méthode efficace pour optimiser les performances consiste à utiliser React.memo et useMemo. React.memo évite les rendus inutiles des composants en mémorisant le rendu, tandis que useMemo permet de mémoriser les calculs coûteux. Utilisez React.memo pour les composants qui ne dépendent pas de props fréquemment modifiées. Appliquez useMemo pour mettre en cache les calculs complexes et réduire ainsi la charge de calcul."
+      },
+      "section39": {
+        "heading": "Découpage de code et chargement différé",
+        "p1": "Le découpage de code et le chargement différé sont des techniques qui permettent de réduire la taille initiale du bundle de votre application, améliorant ainsi les temps de chargement. En découpant votre code en blocs plus petits et en les chargeant à la demande, vous pouvez améliorer considérablement les performances."
+      },
+      "section40": {
+        "heading": "Profilage et débogage des applications React",
+        "p1": "Pour identifier les goulots d'étranglement des performances, React propose des outils comme React DevTools Profiler. Cet outil vous aide à comprendre où votre application perd du temps, vous permettant ainsi de cibler efficacement les optimisations. En combinant ces techniques (mémorisation, découpage de code et profilage), vous pouvez améliorer considérablement les performances de vos applications React et garantir une meilleure expérience utilisateur."
+      },
+      "section41": {
+        "heading": "Conclusion : Votre parcours avec React",
+        "p1": "En parcourant l'univers de React, vous avez acquis des bases solides pour la création d'applications web modernes. Vous avez découvert JSX, les composants, les props, la gestion d'état et les hooks React, entre autres sujets essentiels. Pour approfondir vos compétences, explorez des sujets avancés comme le rendu côté serveur, React Native pour le développement d'applications mobiles et l'intégration de React avec d'autres bibliothèques et frameworks. Expérimentez avec vos propres projets, contribuez à des initiatives open source ou participez à des défis de code pour consolider vos connaissances. Rejoindre la communauté React peut également être une étape précieuse de votre apprentissage. Échangez avec d'autres développeurs via des forums en ligne, assistez à des conférences ou participez à des rencontres locales pour vous tenir au courant des dernières tendances et des meilleures pratiques en matière de développement React. Avec persévérance et dévouement, vous serez sur la bonne voie pour maîtriser React et créer des applications complexes et évolutives. Votre conclusion sur React marque le début d'un nouveau chapitre de votre parcours de développement."
+      }
+    },
+    "webdesign": {
+      "title": "Tendances du Web Design en 2025",
+      "category": "Design",
+      "excerpt": "Découvrez les nouvelles tendances du web design qui marqueront 2025.",
+      "introduction": "Le web design évolue constamment. En 2025, nous verrons une forte adoption de la réalité augmentée, du minimalisme extrême, et des interfaces immersives qui améliorent l'expérience utilisateur.",
+      "headingh1": "Points clés",
+      "keyTakeaways": {
+        "item1": "Personnalisation de l'IA",
+        "item2": "Éclairage et obscurité",
+        "item3": "Minimalisme",
+        "item4": "Défilement immersif",
+        "item5": "Bio-typographie",
+        "item6": "Visuel 3D",
+        "item7": "Morphisme"
+      },
+      "section1": {
+        "heading": "Personnalisation de l'IA",
+        "p1": "La personnalisation de l'IA dans l'interface utilisateur personnalise l'expérience utilisateur en ajustant les couleurs, le contenu et la mise en page en fonction du comportement individuel."
+      },
+      "section2": {
+        "heading": "Éclairage et obscurité",
+        "p1": "La conception de l'interface utilisateur avec éclairage et obscurité se concentre sur l'utilisation d'effets de lumière, de contrastes et d'ombres pour ajouter de la profondeur, mettre en valeur les éléments clés et rendre le design plus attrayant."
+      },
+      "section3": {
+        "heading": "Minimalisme",
+        "p1": "L'une des plus grandes tendances du minimalisme. Il privilégie une utilisation réduite, des mises en page épurées, des couleurs simples et une navigation aisée."
+      },
+      "section4": {
+        "heading": "Défilement immersif",
+        "p1": "Le défilement immersif est une tendance de design populaire qui rend les sites web plus attrayants. Il utilise des calques et des animations pour créer une expérience captivante et narrative."
+      },
+      "section5": {
+        "heading": "Bio Typographie",
+        "p1": "Une typographie imposante utilise du texte gras et surdimensionné comme point focal, idéale pour un design minimaliste, des titres percutants et des sites axés sur l'image de marque, comme les sites de mode ou les portfolios."
+      },
+      "section6": {
+        "heading": "Visuel 3D",
+        "p1": "L'utilisation de visuels 3D dans la conception d'interface utilisateur est devenue passionnante. Cela donne une impression de profondeur et rend le design plus réaliste."
+      },
+      "section7": {
+        "heading": "Morphisme",
+        "p1": "Le morphisme est une fonctionnalité de conception d'interface utilisateur qui s'adapte aux interactions des utilisateurs, aux appareils qu'ils utilisent et aux tendances de design actuelles."
+      }
+    },
+
+    "blogDetail": {
+      "title": "← Retour aux blogs"
+    }
+  }
+}

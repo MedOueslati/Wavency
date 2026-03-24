@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', 'Poppins Placeholder', sans-serif;
+    
+  }
+  html {
+    scroll-behavior: smooth; /* Smooth scrolling for anchor links */
+  }
+  
+@layer base {
+  h2 {
+    @apply text-3xl font-semibold mb-10 mt-4 ;
+  } 
+  h3 {
+    @apply text-xl font-semibold text-customColor1 
+  } 
+  h4 {
+    @apply text-xl font-semibold my-4
+  } 
+}
